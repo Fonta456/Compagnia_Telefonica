@@ -1,7 +1,3 @@
-
-
-
-/*
 	Name: 
 	Copyright: 
 	Author: Fontana Andrea 3ia
@@ -79,4 +75,4 @@
 	IN					OUT
 	0	0	0	0		0
 	10	2	4	8		12.52 - Windtre
-*/
+
